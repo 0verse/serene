@@ -1,3 +1,5 @@
+Source: https://www.reddit.com/r/neography/comments/8186cc/creating_fonts_with_inkscape_and_fontforge_part1/
+
 Part#1 - Simple Alphabet
 In this tutorial, we create simple font, and introduce core concepts of both Inkscape and FontForge.
 
