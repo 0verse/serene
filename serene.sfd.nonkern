@@ -35,7 +35,6 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 258 0 0 "pair kerning" { "pair kerning-1" [75,7,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: Custom
@@ -44,7 +43,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 9
+WinInfo: 0 32 20
 BeginPrivate: 0
 EndPrivate
 BeginChars: 262 53
@@ -68,7 +67,6 @@ SplineSet
  16 185 l 1
  16 225 l 1
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: y
@@ -118,7 +116,6 @@ SplineSet
  166 25.9140625 116.602539062 6.7177734375 91 42.40625 c 1
  82.6767578125 30.8037109375 71.8388671875 25 61 25 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: v
@@ -137,7 +134,6 @@ SplineSet
  16 225 l 1
  56 225 l 1
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: u
@@ -157,7 +153,6 @@ SplineSet
  166 0 16 0 16 100 c 2
  16 225 l 1
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: t
@@ -179,7 +174,6 @@ SplineSet
  166 0 16 0 16 100 c 2
  16 375 l 1
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: s
@@ -202,7 +196,6 @@ SplineSet
  16 150 l 2
  16 200 53.5 225 91 225 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: r
@@ -221,7 +214,6 @@ SplineSet
  16 150 l 2
  16 200 53.5 225 91 225 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: q
@@ -272,15 +264,12 @@ SplineSet
  126 150 l 2
  126 175 108.5 187.5 91 187.5 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: o
 Encoding: 111 111 10
 Width: 182
-Flags: W
-HStem: 187.5 37.5<66.2582 115.742>
-VStem: 16 40<74.5117 177.374> 126 40<74.5117 177.374>
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -297,7 +286,6 @@ SplineSet
  126 150 l 2
  126 175 108.5 187.5 91 187.5 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: n
@@ -318,7 +306,6 @@ SplineSet
  16 150 l 2
  16 200 53.5 225 91 225 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: m
@@ -344,7 +331,6 @@ SplineSet
  16 150 l 2
  16 200 38.5 225 61 225 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: l
@@ -362,7 +348,6 @@ SplineSet
  166 0 16 0 16 100 c 2
  16 375 l 1
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: k
@@ -386,7 +371,6 @@ SplineSet
  121 25 l 1
  56 125 l 1
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: j
@@ -431,7 +415,6 @@ SplineSet
  166 0 16 0 16 100 c 2
  16 225 l 1
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: h
@@ -453,7 +436,6 @@ SplineSet
  16 25 l 1
  16 375 l 1
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: g
@@ -503,7 +485,6 @@ SplineSet
  16 300 l 2
  16 350 53.5 375 91 375 c 0
 EndSplineSet
-Kerns2: 0 -55 "pair kerning-1" 1 -55 "pair kerning-1" 2 -55 "pair kerning-1" 3 -55 "pair kerning-1" 4 -55 "pair kerning-1" 6 -55 "pair kerning-1" 7 -55 "pair kerning-1" 8 -55 "pair kerning-1" 9 -55 "pair kerning-1" 10 -55 "pair kerning-1" 11 -55 "pair kerning-1" 12 -55 "pair kerning-1" 15 -115 "pair kerning-1" 18 -55 "pair kerning-1" 20 -55 "pair kerning-1" 22 -55 "pair kerning-1" 24 -55 "pair kerning-1" 51 -55 "pair kerning-1"
 EndChar
 
 StartChar: e
@@ -528,7 +509,6 @@ SplineSet
  126 150 l 1
  126 175 108.5 187.5 91 187.5 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: d
@@ -573,7 +553,6 @@ SplineSet
  16 150 l 2
  16 200 53.5 225 91 225 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: b
@@ -623,7 +602,6 @@ SplineSet
  126 150 l 2
  126 175 108.5 187.5 91 187.5 c 0
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: Z
@@ -854,9 +832,7 @@ EndChar
 StartChar: O
 Encoding: 79 79 35
 Width: 182
-Flags: W
-HStem: 337.5 37.5<69.4963 112.504>
-VStem: 16 40<75.625 324.375> 126 40<75.625 324.375>
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -983,9 +959,7 @@ EndChar
 StartChar: I
 Encoding: 73 73 41
 Width: 182
-Flags: W
-HStem: 25 40<16 71 111 166> 335 40<16 71 111 166>
-VStem: 71 40<65 335>
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1225,9 +1199,7 @@ EndChar
 StartChar: x
 Encoding: 120 120 51
 Width: 182
-Flags: W
-HStem: 25 21G<16 71.5001 110.5 166> 205 20G<16 71.5001 110.5 166>
-VStem: 16 150
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1245,13 +1217,12 @@ SplineSet
  68.5 125 l 1
  16 225 l 1
 EndSplineSet
-Kerns2: 15 -115 "pair kerning-1"
 EndChar
 
 StartChar: space
 Encoding: 33 32 52
 Width: 182
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 EndChars
