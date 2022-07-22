@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="ampersand.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     width="500px"
+     units="px"
+     inkscape:zoom="2"
+     inkscape:cx="227"
+     inkscape:cy="206"
+     inkscape:window-width="1611"
+     inkscape:window-height="1396"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       spacingx="1.3229167"
+       spacingy="1.3229167" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3212-0"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 199.21484 1.0703125 C 167.8776 1.1169568 135 29.804687 135 90 C 135 121.61321 141.91893 153.91839 152.92188 186.40039 C 139.39555 207.808 125 230.30194 125 260 C 125 334.75864 183.21617 362.93971 227.11328 344.55078 C 228.07242 346.35938 229.04484 348.19581 230 350 L 275 350 C 269.43431 340.10543 263.71546 329.97806 257.9668 319.67188 C 268.39793 305.06047 275 285.1714 275 260 L 275 235 L 235 235 L 235 260 C 235 265.44582 234.57634 270.46793 233.79492 275.06641 C 202.08961 214.21054 175 149.64599 175 90 C 175 19.999996 215 34.999999 215 70 L 255 70 C 255 24.726562 227.74577 1.0278453 199.21484 1.0703125 z M 171.82812 234.47656 C 183.10674 260.05796 196.05229 285.58146 209.28516 310.81836 C 189.31595 318.19383 165 301.25693 165 260 C 165 252.52726 167.48261 243.81296 171.82812 234.47656 z "
+       transform="scale(0.26458334)" />
+  </g>
+</svg>

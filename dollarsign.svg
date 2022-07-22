@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="dollarsign.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     width="500px"
+     units="px"
+     inkscape:zoom="2"
+     inkscape:cx="161.75"
+     inkscape:cy="266"
+     inkscape:window-width="1276"
+     inkscape:window-height="1396"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       spacingx="1.3229167"
+       spacingy="1.3229167" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3212-0"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 200 0 C 162.5 1.8897637e-07 125 29.999999 125 90 C 125 143.63799 145.04119 169.2853 185 188.41406 L 185 307.90625 C 173.72319 300.63514 165 284.69454 165 260 L 125 260 C 125 380 275 380 275 260 C 275 206.36201 254.95881 180.7147 215 161.58594 L 215 42.09375 C 226.27681 49.364855 235 65.305463 235 90 L 275 90 C 275 29.999998 237.5 -1.889764e-07 200 0 z M 185 42.09375 L 185 144.49023 C 174.31721 133.09747 165 113.88459 165 90 C 165 65.305463 173.72319 49.364855 185 42.09375 z M 215 205.50977 C 225.68279 216.90253 235 236.11541 235 260 C 235 284.69454 226.27681 300.63515 215 307.90625 L 215 205.50977 z "
+       transform="scale(0.26458334)" />
+  </g>
+</svg>
