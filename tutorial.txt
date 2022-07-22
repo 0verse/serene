@@ -1,0 +1,90 @@
+Part#1 - Simple Alphabet
+In this tutorial, we create simple font, and introduce core concepts of both Inkscape and FontForge.
+
+ 
+
+    Creating a new project
+
+        Open FontForge and select new
+
+        Go to Element|FontInfo.
+
+        Double click Fontname to select it and type "Font#1" (all the names should change) then validate OK
+
+        Do File|Save as... and save the file in a directory (such as " .../Font#1/Font#1.sfd ")
+
+    Drawing the glyphs
+
+        setup
+
+            Open Inkscape to create a new document and save it in the same folder as the .sfd file
+
+            Open File|Document properties|Page. In the box Custom size set Units=px, Width=500, Height=500.
+
+            Open File|Document properties|Grids and create a new rectangular grid with SpacingX=25, SpacingY=25
+
+            Close Document properties
+
+        drawing
+
+            Read this guide on how to pan and zoom in Inkscape.
+
+            Draw a Rectangle (F4) in the background like this to serve as a baseline (the pink rectangle). You can remove it's border by right-click Fill and stroke|Stroke Paint and click the cross. To change the color to a light transparent one, Fill and stroke|Fill change it's opacity and use the color wheel.
+
+            Using the Draw Bezier (Shift+F6) tool in mode Bezier Path, draw some simple letters. Here's where I put the points for these specific shapes: Imgur.
+
+            Once the shapes of your letters are closed, color them by adding a Fill color (flat color). Here's what they might look like.
+
+                In this picture the holes in the letters are made using shapes drawn with a white fill color; they are sitting on top of the black shapes we just drew, and their outlines can similarly be seen in the picture before that. Other ways of handling holes in letters are explored in this answer.
+
+            The last thing to do before importing the glyphs is to remove their stroke. Select them and do: right-click|Fill and stroke|Stroke Paint->click the cross.
+
+     
+
+    Heads-up for the next step: If you experience issues with copy-paste on Windows, refer to this post.
+
+     
+
+    Importing the letters in FontForge
+
+        In FontForge go to Element|Font Info...|General.
+
+        Set Ascent=325, Descent=175, Em Size=500
+
+            This is what Ascent and Descent corresponds to : picture. Em Size is the sum of the two, you can read more about em-sizes here.
+
+        Try copying a glyph from Inkscape and pasting it in an empty cell in FontForge. It will appear in the top left hand corner like this. You can select all the points and drag the letter back onto the baseline.
+
+            PS: If the holes in the letters do not appear in fontforge, check that your paths are not opened (thick stroke in fontforge's editor), then try to run Element|Correct Direction. Otherwise, refer to this answer.
+
+            Tip: If you had done precise positioning in Inkscape and don't want to lose it, copy the letter AND a small rectangle like this before copy pasting it, then delete the rectangle from FontForge and voilà!
+
+        Copy all the letters into FontForge : picture.
+
+            Tip: There seems to be a bug where, upon copying something inside of FontForge, it sometimes becomes impossible to paste anything from Inkscape afterwards. If this happens to you, closing and reopening FontForge should fix this.
+
+    Set the bearings
+
+        There are two ways to do this. Open each glyph and manually drag the two vertical bars close to the letter like this.
+
+        You can type the name of other letters in the text box to preview them together and choose the ideal spacing. Simply click the letter you want to edit on the screen.
+
+        An automated way of doing this is to select multiple letters, and choose Metrics|Set both bearings set both bearings to 20. If you had precise positioning going on, this might break it.
+
+    The glyph "space"
+
+        The last thing to do is create the glyph for "space" (Hexadecimal number 0x20). Select the empty glyph and Metrics|SetWidth to 100.
+
+    Generate the font
+
+        Do File|Generate Fonts... as "Font#1.ttf" in TrueType OR "Font#1.otf" in Opentype (CFF). Options should be set to Hints+FlexHints+TrueTypeHints+Opentype+PSGlyphNames+LookupNames.
+
+            These are the default settings (more or less), but you may change them by mistake without noticing as I know I did a few times. This could break your font in inexplicable ways, so at least keep in mind that these options exist and should be set properly.
+
+            If you checked validate before saving You will get an error "Non standard Em-Size", standard sizes are 1000, 1024 and 2048. The first size (1000) is a convention, while the other two are linked to another error you will get : "Non Integral coordinates." In order to save space and reduce file sizes, it is common to round all coordinates to integers, hence the standard 1024 and 2048 sizes being powers of two. You can forget about these errors and generate anyway. (There are many other errors that will be raised but I never cared to understand those, just know that you can ignore them as well.)
+
+        Install the font, and preview in Libreoffice Writer. You can of course use another software, but it may not support all the features that our fonts will be using in following tutorials.
+
+            PS: You may need to delete the font before installing it, if you already installed it once before.
+
+        Result.
