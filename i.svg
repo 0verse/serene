@@ -26,9 +26,9 @@
      width="500px"
      units="px"
      inkscape:zoom="2"
-     inkscape:cx="186.75"
+     inkscape:cx="195.75"
      inkscape:cy="266"
-     inkscape:window-width="1276"
+     inkscape:window-width="1606"
      inkscape:window-height="1396"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -48,8 +48,8 @@
      id="layer1">
     <path
        id="path1797"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 125 75 L 125 115 L 165 115 L 165 75 L 125 75 z M 125 150 L 125 275 C 125 375 275 375 275 275 L 235 275 C 235 325.00001 165 325.00001 165 275 L 165 150 L 125 150 z "
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 165 75 L 165 115 L 205 115 L 205 75 L 165 75 z M 125 150 L 125 190 L 165 190 L 165 275 C 165 375 275 375 275 275 L 235 275 C 235 325 205 325.00001 205 275 L 205 150 L 125 150 z "
        transform="scale(0.26458334)" />
   </g>
 </svg>
