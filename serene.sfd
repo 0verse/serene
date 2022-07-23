@@ -5,7 +5,7 @@ FamilyName: Serene
 Weight: Regular
 Copyright: Copyright (c) 2022, the SerenityOS developers.
 UComments: "2021-6-17: Created with FontForge (http://fontforge.org)"
-Version: 02.000
+Version: 03.000
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 25
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1623906316
-ModificationTime: 1658561069
+ModificationTime: 1658563665
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,7 +44,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 20
+WinInfo: 0 18 20
 BeginPrivate: 0
 EndPrivate
 BeginChars: 262 103
