@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="6.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     width="500px"
+     units="px"
+     inkscape:zoom="2"
+     inkscape:cx="197.75"
+     inkscape:cy="266"
+     inkscape:window-width="1276"
+     inkscape:window-height="1396"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       spacingx="1.3229167"
+       spacingy="1.3229167" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1010"
+       style="fill:#000000;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 230 75 C 210.93165 94.068352 132.77886 158.58839 125.53906 259.89062 C 125.0994 264.02568 124.92887 268.19623 125.03125 272.35938 C 125.02032 273.23942 125 274.11477 125 275 L 125.13477 275 C 127.13255 313.2656 152.0847 350 200 350 C 300 350 300 190 200 190 C 195.83004 190 191.83781 190.28318 188.01562 190.81641 C 211.99987 144.36588 249.56341 103.61617 275 75 L 230 75 z M 200 230 C 245 230 245 310 200 310 C 155 310 155 230 200 230 z "
+       transform="scale(0.26458334)" />
+  </g>
+</svg>
