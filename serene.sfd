@@ -1,11 +1,11 @@
 SplineFontDB: 3.2
-FontName: Serene-Regular
-FullName: Serene Regular
-FamilyName: Serene
+FontName: Serene-Small-Regular
+FullName: Serene Small Regular
+FamilyName: Serene Small
 Weight: Regular
-Copyright: Copyright (c) 2022, the SerenityOS developers.
+Copyright: Copyright (c) 2022, Ali Haydar Caliskan.
 UComments: "2021-6-17: Created with FontForge (http://fontforge.org)"
-Version: 04.000
+Version: 05.000
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 25
@@ -16,16 +16,18 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 842 838150694 14286036]
+StyleMap: 0x0000
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1623906316
-ModificationTime: 1658649806
+ModificationTime: 1658755131
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 0
+OS2TypoLinegap: 45
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -34,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: Custom
@@ -43,7 +44,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 20
+WinInfo: 0 32 9
 BeginPrivate: 0
 EndPrivate
 BeginChars: 262 103
